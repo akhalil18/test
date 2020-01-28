@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-## Getting Started ....2222000
+## Getting Started ... ###########
 
 This project is a starting point for a Flutter application.
 
